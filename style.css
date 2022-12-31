@@ -1,3 +1,4 @@
+/* Element Selectors */
 body {
   background-color: #fff;
   color: #333;
@@ -18,6 +19,12 @@ h2 {
   font-style:italic;
 }
 
+ul {
+    background-color: #eeeeee;
+    border:5px solid purple;
+}
+
+/* Class Selectors */
 .job-title {
   color: #999999;
   font-weight: bold;
