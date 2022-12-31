@@ -30,6 +30,7 @@ ul {
   font-weight: bold;
 }
 
+/* Pseudo Class Selectors */
 a:link,
 a:visited {
   color: #fb6542;
@@ -37,5 +38,6 @@ a:visited {
 
 a:hover {
   text-decoration: none;
+  color:green;
 }
 
